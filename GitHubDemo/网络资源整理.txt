@@ -1,0 +1,15 @@
+
+1.Android Https 相关完全解析 当OkHttp遇到Https
+http://android.jobbole.com/81613/
+
+2.android-async-http AsyncHttpClient介绍
+http://www.2cto.com/kf/201408/326552.html
+
+3.Android 混淆代码总结 .
+http://blog.csdn.net/duguang77/article/details/38900459
+
+4.GitHub 优秀的 Android 开源项目 
+http://www.cnblogs.com/hawkon/p/3593709.html
+
+5.Android OkHttp完全解析 是时候来了解OkHttp了
+http://blog.csdn.net/lmj623565791/article/details/47911083
