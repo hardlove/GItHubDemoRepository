@@ -13,6 +13,20 @@ http://www.cnblogs.com/hawkon/p/3593709.html
 
 5.Android OkHttp完全解析 是时候来了解OkHttp了
 http://blog.csdn.net/lmj623565791/article/details/47911083
+http://square.github.io/okhttp/ oKHttp官网
+https://github.com/hongyangAndroid/okhttp-utils  oKHttp辅助类
 
 6.Android官方培训课程中文版(v0.9.5)
 http://hukai.me/android-training-course-in-chinese/index.html
+
+7.android实现桌面icon未读信息图标（类似与iPhone的badge）
+http://blog.csdn.net/fuqinyijiu/article/details/42738979
+
+8.android app图标未读消息数（BadgeNumber）  
+http://download.csdn.net/detail/danjianhu678/9145479
+
+9.Android开源框架ImageLoader的完美例子
+http://blog.csdn.net/wwj_748/article/details/10079311
+
+10.AS的一些好用的插件
+https://github.com/jiang111/awesome-androidstudio-plugins
